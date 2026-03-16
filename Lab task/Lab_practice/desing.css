@@ -1,0 +1,45 @@
+body{
+    font-family: Arial;
+    background-color: aliceblue;
+}
+
+form{
+    width: 400;
+    margin: 100px auto;
+    background-color: white;
+    padding: 20px; 
+}
+h1{
+    text-align: center;
+}
+
+table
+{
+ width: 100%;
+}
+
+td
+{
+padding: 10px;
+}
+
+input
+{
+width: 100%;
+padding: 6px;
+}
+
+textarea
+{
+width: 100%;
+padding: 6px;
+}
+
+input[type="submit"]
+{
+background-color: green;
+color: white;
+border: none;
+padding: 10px;
+cursor: pointer;
+}
